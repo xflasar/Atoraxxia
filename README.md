@@ -14,3 +14,7 @@ This repository is separated CLIENT-SIDE folder ( Project ) from original reposi
 ![1722533808546](image/README/1722533808546.png)
 
 Actual Developement is around 1 year and 7 months from start. This project is side-project developed in my own free time. Yet it is also learning project for React and Node with MongoDB and Redis caching for API.
+
+# Release
+
+It is planned to release Alpha into internet by the end of 2024. (Can be even earlier.)
